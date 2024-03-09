@@ -18,10 +18,7 @@
 * **Receive Timely Notifications:**
     * Be notified about upcoming reminders even when the app is in the background.
     * Customize notification sounds and preferences for a personalized experience.
-* **Additional Considerations (Optional):**
-    * Implement recurring reminders (daily, weekly, monthly, etc.) for ongoing tasks.
-    * Explore location-based reminders that trigger when you arrive or leave a specific location.
-    * Integrate with calendar or task management apps for a unified system.
+
 
 ## Screenshots
 
