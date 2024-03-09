@@ -6,7 +6,7 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import 'package:remainder_app/helper/dateFormater.dart';
 import 'package:remainder_app/model/remainderModel.dart';
-
+import 'package:fluttertoast/fluttertoast.dart';
 import '../Notification/notificationControl.dart';
 import '../providers/scheduleProviders.dart';
 import '../services/db_Service.dart';
@@ -39,7 +39,15 @@ class _AddEventState extends State<AddEvent> {
         color: Colors.white,
       ),
       onSubmit: (date) {
-        // print(date);
+        Fluttertoast.showToast(
+            msg: "Date Selected",
+            toastLength: Toast.LENGTH_SHORT,
+            gravity: ToastGravity.BOTTOM,
+            timeInSecForIosWeb: 2,
+            backgroundColor: Colors.red,
+            textColor: Colors.white,
+            fontSize: 16.0
+        );
         setState(() {
             selectedDate = date;
         });
