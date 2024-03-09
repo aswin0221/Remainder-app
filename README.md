@@ -25,10 +25,7 @@
 
 ## Screenshots
 
-![WhatsApp Image 2024-03-09 at 20 14 47_6b96560e](https://github.com/aswin0221/Remainder-app/assets/104637660/ffe4ff67-e090-4c53-958b-dc3c08cc7742)
-![WhatsApp Image 2024-03-09 at 20 14 47_ae723ca7](https://github.com/aswin0221/Remainder-app/assets/104637660/3511e5c1-5c38-4246-9ccb-3cda9052a654)
-
-
+<img src="https://github.com/aswin0221/Remainder-app/assets/104637660/ffe4ff67-e090-4c53-958b-dc3c08cc7742" width="300" alt="Screenshot 1"> <img src="https://github.com/aswin0221/Remainder-app/assets/104637660/3511e5c1-5c38-4246-9ccb-3cda9052a654" width="300" alt="Screenshot 2">
 
 ## Getting Started
 
