@@ -1,4 +1,4 @@
-# This repository contains a mobile app built with Flutter that allows users to set reminders and receive notifications at the specified time, even when the app is in the background or killed. The app is designed to provide a seamless reminder experience, ensuring that important events are never missed.
+# Remainder App
 
 ## Table of Contents
 
