@@ -3,13 +3,11 @@
 ## Table of Contents
 
 * [Features](#features)
-* [Screenshots](#screenshots) (**Placeholder**)
+* [Screenshots](#screenshots) 
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
 * [Dependencies](#dependencies)
-* [License](#license)
-* [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -27,9 +25,10 @@
 
 ## Screenshots
 
-**(Placeholder)**
+![WhatsApp Image 2024-03-09 at 20 14 47_6b96560e](https://github.com/aswin0221/Remainder-app/assets/104637660/ffe4ff67-e090-4c53-958b-dc3c08cc7742)
+![WhatsApp Image 2024-03-09 at 20 14 47_ae723ca7](https://github.com/aswin0221/Remainder-app/assets/104637660/3511e5c1-5c38-4246-9ccb-3cda9052a654)
 
-We'll include visual aids (screenshots or GIFs) once the app development progresses. These will showcase the app's interface and functionality in action.
+
 
 ## Getting Started
 
@@ -44,3 +43,16 @@ We'll include visual aids (screenshots or GIFs) once the app development progres
 
    ```bash
    git clone [https://github.com/your-username/remainder_app.git](https://github.com/your-username/remainder_app.git)
+
+### dependencies
+
+  * provider: ^6.1.2
+  * sqflite: ^2.3.2
+  * flutter_local_notifications: ^16.3.3
+  * bottom_picker: ^2.4.0
+  * intl: ^0.19.0
+  * page_transition: ^2.1.0
+  * timezone: ^0.9.2
+  * path_provider: ^2.1.2
+  * shared_preferences: ^2.2.2
+  * fluttertoast: ^8.2.4
