@@ -125,6 +125,7 @@ class _AddEventState extends State<AddEvent> {
               ),
               child: TextField(
                 controller: discreption,
+                maxLines: 3,
                 decoration: const InputDecoration(
                   contentPadding: EdgeInsets.symmetric(vertical: 10,horizontal: 15),
                     border: InputBorder.none,

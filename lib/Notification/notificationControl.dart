@@ -61,8 +61,9 @@ class NotificationControl {
     print(scheduleTimeInMilliSeconds);
     DateTime now = DateTime.now().add(const Duration(seconds: 10));
     AndroidNotificationDetails androidNotificationDetails = const AndroidNotificationDetails(
-        "Schedule",
-        "Remainder alert",
+        "Schedule1",
+        "Remainder alert1",
+        sound: RawResourceAndroidNotificationSound("notifications"),
         importance: Importance.max,
         priority: Priority.max
     );
