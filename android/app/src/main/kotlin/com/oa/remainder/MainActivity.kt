@@ -1,4 +1,4 @@
-package com.example.remainder_app
+package com.oa.remainder
 
 import io.flutter.embedding.android.FlutterActivity
 
